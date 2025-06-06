@@ -2,6 +2,7 @@
 # Tugas Program KomNum
 
 **NRP:** 5025241239
+
 **Nama:** Rasya Nur Aqilla
 
 ### Rumus Metode Secant  
