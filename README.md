@@ -3,9 +3,9 @@
 
 ## Kelompok C-09
 
-**502524123** - Mohammad Najib Bahruddin
-**5025241238** - Malvin Jonathan
-**5025241239** - Rasya Nur Aqilla
+**502524123** - Mohammad Najib Bahruddin\
+**5025241238** - Malvin Jonathan\
+**5025241239** - Rasya Nur Aqilla\
 **5025241246** - Naufal Fadhlil Wafi
 
 ### Rumus Metode Secant  
