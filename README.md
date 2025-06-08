@@ -1,7 +1,7 @@
 
 # Tugas Program KomNum
 
-## Kelompok C-09
+### Kelompok C-09
 
 **502524123** - Mohammad Najib Bahruddin\
 **5025241238** - Malvin Jonathan\
